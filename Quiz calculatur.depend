@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636728005 source:c:\users\1337\desktop\nadia\quiz calculatur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
